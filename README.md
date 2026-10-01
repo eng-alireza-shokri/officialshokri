@@ -17,16 +17,16 @@ WordPress Developer & Web Designer focused on building, optimizing, and maintain
 I keep client work on GitHub as **case studies rather than source-code repositories**. Production source code is not published because the codebases belong to clients.
 
 **20 website projects:**  
-[View the complete project archive](https://github.com/officialshokri/portfolio-archive)
+[View the complete project archive](https://github.com/eng-alireza-shokri/portfolio-archive)
 
 ## Selected Projects
 
-- [Madiya Store](https://github.com/officialshokri/portfolio-archive/blob/main/madiya-store.md) — luxury Persian RTL e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, MySQL, advanced product filtering, customer accounts, order tracking, and an administration panel
-- [Sogand Shoes](https://github.com/officialshokri/sogand-shoes) — shoe e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
-- [Baharland](https://github.com/officialshokri/baharland) — e-commerce website using AI-assisted custom development, responsive design, and online ordering
-- [Abu Jamal Ahvazi](https://github.com/officialshokri/abu-jamal-ahvazi) — food ordering website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
-- [Asan GSM](https://github.com/officialshokri/asan-gsm) — WordPress/WooCommerce e-commerce website
-- [Wallfix](https://github.com/officialshokri/wallfix) — WordPress corporate website
+- [Madiya Store](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/madiya-store.md) — luxury Persian RTL e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, MySQL, advanced product filtering, customer accounts, order tracking, and an administration panel
+- [Sogand Shoes](https://github.com/eng-alireza-shokri/sogand-shoes) — shoe e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
+- [Baharland](https://github.com/eng-alireza-shokri/baharland) — e-commerce website using AI-assisted custom development, responsive design, and online ordering
+- [Abu Jamal Ahvazi](https://github.com/eng-alireza-shokri/abu-jamal-ahvazi) — food ordering website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
+- [Asan GSM](https://github.com/eng-alireza-shokri/asan-gsm) — WordPress/WooCommerce e-commerce website
+- [Wallfix](https://github.com/eng-alireza-shokri/wallfix) — WordPress corporate website
 
 ## Approach
 
